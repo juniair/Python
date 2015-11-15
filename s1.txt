@@ -1,4 +1,4 @@
-pig ham
 cat dog
-ham bird
 dog pig
+ham bird
+pig ham
